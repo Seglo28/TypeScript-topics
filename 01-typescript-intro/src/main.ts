@@ -13,7 +13,17 @@ import { setupCounter } from './counter'
 
 //import './topics/05-basic-destructuring';
 
-import './topics/06-function-destructuring';
+//import './topics/06-function-destructuring';
+
+//import './topics/06.01 - personal-destructuring';
+
+//import './topics/07-import-export';
+
+//import './topics/08-clases'
+
+//import './topics/08.01- Priorizar-composicion-sobre-herencia';
+
+import './topics/09-generics';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
