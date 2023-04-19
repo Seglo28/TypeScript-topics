@@ -23,7 +23,11 @@ import { setupCounter } from './counter'
 
 //import './topics/08.01- Priorizar-composicion-sobre-herencia';
 
-import './topics/09-generics';
+//import './topics/09-generics';
+
+//import './topics/10-decorators';
+
+import './topics/11-Optional-chaining';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
